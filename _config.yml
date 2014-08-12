@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            NA48
+title:            matt
 tagline:          ''
 description:      'This is a test of Jekyll, Hyde and Poole.'
 url:              http://mattleblanc.github.io/blog/
