@@ -1,1 +1,7 @@
 _site/
+
+# emacs backup files
+*~
+
+# OSX things
+.DS_store
