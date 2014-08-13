@@ -10,7 +10,7 @@ title:            matt
 tagline:          ''
 description:      'This is a test of Jekyll, Hyde and Poole.'
 url:              http://mattleblanc.github.io/blog/
-baseurl:          /
+baseurl:          http://mattleblanc.github.io/blog/
 
 author:
   name:           'Matt LeBlanc'
