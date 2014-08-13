@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            matt
+title:            mleblanc
 tagline:          ''
-description:      'This is a test of Jekyll, Hyde and Poole.'
+description:      'Physics and Wizards.'
 url:              http://mattleblanc.github.io/blog/
 baseurl:          http://mattleblanc.github.io/blog/
 
