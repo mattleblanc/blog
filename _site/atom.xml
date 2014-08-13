@@ -4,7 +4,7 @@
  <title>mleblanc</title>
  <link href="http://mattleblanc.github.io/blog/atom.xml" rel="self"/>
  <link href="http://mattleblanc.github.io/blog/"/>
- <updated>2014-08-12T22:41:51-07:00</updated>
+ <updated>2014-08-12T22:43:47-07:00</updated>
  <id>http://mattleblanc.github.io/blog</id>
  <author>
    <name>Matt LeBlanc</name>
@@ -13,16 +13,7 @@
 
  
  <entry>
-   <title>hello world</title>
-   <link href="http://mattleblanc.github.io/blog/2014/08/13/hello-world/"/>
-   <updated>2014-08-13T00:00:00-07:00</updated>
-   <id>http://mattleblanc.github.io/blog/2014/08/13/hello-world</id>
-   <content type="html">&lt;p&gt;What&amp;#39;s up?&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>initial post</title>
+   <title>Initial Post</title>
    <link href="http://mattleblanc.github.io/blog/2014/08/12/new/"/>
    <updated>2014-08-12T00:00:00-07:00</updated>
    <id>http://mattleblanc.github.io/blog/2014/08/12/new</id>
