@@ -1,6 +1,6 @@
 ## mattleblanc.github.io/blog/
 
-This is the repository for a [blog](mattleblanc.github.io/blog/) I'm building, in order to learn more about [github pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com).
+This is the repository for a [blog](mattleblanc.github.io/blog/) I'm setting up, in order to learn more about [github pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com).
 
 ## References
 
